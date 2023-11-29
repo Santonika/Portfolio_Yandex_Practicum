@@ -15,4 +15,3 @@ Action plan:
     7) Hypothesis Testing.
     8) Conclusions.
 
-# Portfolio_Yandex_Practicum
