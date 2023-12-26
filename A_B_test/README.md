@@ -1,5 +1,5 @@
 # A/B test for fonts
-[ipynb](https://github.com/Santonika/A-B_test_for_fonts/blob/main/A_B_test_project.ipynb)
+[ipynb](https://github.com/Santonika/Portfolio_Yandex_Practicum/blob/Analysis_of_Video_Games/A_B_test/A_B_test_project.ipynb)
 
 ##  Project Description
 
