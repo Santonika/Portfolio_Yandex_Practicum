@@ -1,5 +1,5 @@
 # E-commerce — Analysis of product assortment.
-[ipynb](https://github.com/Santonika/E-commerce-Analysis_of_product_assortment/blob/main/E-commerce.ipynb)
+[ipynb](https://github.com/Santonika/Portfolio_Yandex_Practicum/blob/Analysis_of_Video_Games/E-commerce/E-commerce.ipynb)
 
 ##  Project Description
 
