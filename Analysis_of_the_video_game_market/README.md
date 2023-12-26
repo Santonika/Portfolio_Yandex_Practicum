@@ -1,7 +1,7 @@
 
 # Marketing Analysis of Video Games Across Different Generations
 
-[ipynb]([https://github.com/Santonika/Analysis_of_the_video_game_marke](https://github.com/Santonika/Portfolio_Yandex_Practicum/blob/Analysis_of_Video_Games/Analysis_of_the_video_game_market/Analysis_of_the_video_game_market.ipynb))
+[ipynb](https://github.com/Santonika/Portfolio_Yandex_Practicum/blob/Analysis_of_Video_Games/Analysis_of_the_video_game_market/Analysis_of_the_video_game_market.ipynb)
 
 ## General Project Information
 This research was conducted to online store "StreamChic".
